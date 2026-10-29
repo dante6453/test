@@ -1,0 +1,6 @@
+{
+  "name": "PersonaStudy",
+  "description": "AI study companion and tutor channeling favorite anime & fictional characters with anti-burnout support, interactive practice, and smart calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
